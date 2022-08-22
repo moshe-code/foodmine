@@ -1,6 +1,6 @@
 export class Food {
-  id!: String;
-  name!: String;
+  id!: string;
+  name!: string;
   price!:number;
   tags?:string[];
   favorite!:boolean;
